@@ -36,7 +36,7 @@ export default defineAppConfig({
       },
 
       github: 'verley93',
-      medium: 'verley93'
+      medium: '@verley93'
     },
     form: {
       successMessage: 'Message sent. Thank you!'
