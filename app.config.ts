@@ -32,11 +32,16 @@ export default defineAppConfig({
       linkedin: {
         icon: 'uil:linkedin',
         label: 'LinkedIn',
-        href: 'https://www.linkedin.com/company/nuxtlabs'
+        href: 'https://www.linkedin.com/in/devlinverley'
       },
 
-      github: 'verley93',
-      medium: '@verley93'
+      medium: {
+        icon: 'bi:medium',
+        label: 'Medium',
+        href: 'https://www.medium.com/@verley93'
+      },
+
+      github: 'verley93'
     },
     form: {
       successMessage: 'Message sent. Thank you!'
